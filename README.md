@@ -11,10 +11,10 @@
 
 ## Features
 - **Player Control**: Move the spaceship in 2D space with keyboard inputs, and shoot projectiles with the mouse.
-- **Asteroid Collision**: Asteroids spawn and move through space, and players must shoot them before they collide with the ship.
-- **Particle Effects**: Explosions and other particle effects are generated when asteroids are destroyed.
-- **Power-ups**: Collect power-ups like speed boosts, multi-shot, and screen clears to enhance your gameplay.
-- **Lives System**: The player starts with a set number of lives and loses them when hit by asteroids or failing to avoid obstacles.
+- **Asteroid Collision**: Asteroids spawn and move through space, and players must shoot them before they collide with the ship or Earth.
+- **Particle Effects**: Explosions are generated when asteroids are destroyed.
+- **Power-ups**: Collect power-ups like speed boosts, multi-shot, and screen clears to empower your gameplay.
+- **Lives System**: The player and Earth starts with a set number of lives and loses them when hit by asteroids.
 - **Stars**: A starry background to enhance the visual appeal of the game.
 
 ## Technologies Used
@@ -65,6 +65,7 @@ Once you have raylib installed and the repository cloned, you can compile and ru
 - **Lives**: Your ship starts with a set number of lives. Avoid hitting asteroids to survive!
 
 ### Objective
+- Protect Earth from dying to asteroids.
 - Destroy asteroids before they collide with your spaceship.
 - Collect power-ups to increase your abilities and survive longer.
 - Survive as long as possible to get the highest score.
@@ -73,7 +74,7 @@ Once you have raylib installed and the repository cloned, you can compile and ru
 
 - **SpeedBoost**: Temporarily increases the speed of the player's ship.
 - **MultiShot**: Allows the player to shoot multiple bullets at once.
-- **ScreenClear**: Clears all on-screen asteroids.
+- **ScreenClear**: Shoots all on-screen asteroids.
 
 ## File Structure
 
