@@ -102,6 +102,11 @@ If you'd like to contribute to the project, feel free to fork the repository, cr
 ### Reporting Issues
 If you encounter any bugs or have feature requests, please create an issue on the [Issues](https://github.com/yourusername/space-shooter/issues) page.
 
+## Contact Info
+**Gmail**: markjlourencor@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/mark-lourenco-0482b3267/
+
 ## License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
+
 ---
