@@ -1,4 +1,4 @@
-# Space Shooter Game
+# Kind Of Space Shooter Game
 
 ## Overview
 "Space Shooter" is a 2D arcade-style space shooting game where players control a spaceship and shoot at asteroids while avoiding obstacles. The game features power-ups, particle effects, and a variety of gameplay mechanics such as speed boosts and multi-shot capabilities. Players can shoot at asteroids and collect power-ups to enhance their abilities, all while protecting their lives from collisions and asteroid impacts.
