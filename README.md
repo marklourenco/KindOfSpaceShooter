@@ -33,7 +33,7 @@ Follow the official [raylib installation guide](https://github.com/raysan5/rayli
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/space-shooter.git
+git clone https://github.com/marklourenco/space-shooter.git
 cd space-shooter
 ```
 
